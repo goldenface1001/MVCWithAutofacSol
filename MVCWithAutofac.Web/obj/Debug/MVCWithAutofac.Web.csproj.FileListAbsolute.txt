@@ -1,0 +1,1 @@
+C:\Users\huseyin\Desktop\Yeni klasör\MVCWithAutofacSol\MVCWithAutofac.Web\obj\Debug\MVCWithAutofac.Web.csprojResolveAssemblyReference.cache
